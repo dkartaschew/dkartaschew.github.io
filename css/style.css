@@ -13,7 +13,7 @@ body {
     color: #eee;
     font-family: Verdana, Tahoma, arial, sans-serif;
     font-size: 12px;
-    background-image: url('../background.png');
+    background-image: url('/css/background.png');
     background-repeat:repeat-x;
     background-color: black;
     min-width: 800px;
